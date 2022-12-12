@@ -1,0 +1,16 @@
+package enums;
+
+public enum Status {
+    HEY_THERE_I_AM_USING_WHATSAPP,
+    AVAILABLE,
+    BUSY,
+    AT_SCHOOL,
+    AT_WORK,
+    BATTERY_ABOUT_TO_DIE,
+    CANNOT_TALK_WHATSAPP_ONLY,
+    IN_A_MEETING,
+    AT_THE_GYM,
+    SLEEPING,
+    URGENT_CALLS_ONLY;
+
+}
